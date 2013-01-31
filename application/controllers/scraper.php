@@ -18,8 +18,8 @@ class Scraper extends CI_Controller {
             {
                 $this->load->library('scraping');
 
-        //       $data['page'] = $this->scraping->page($url); // to scrape simple webpages
-                $data['page'] = $this->scraping->shDom($data['url']); // to scrape complex webpages
+        //       $data['page'] = $this->scraping->page($data['url']); // to scrape simple webpages [do not require cookie]
+                $data['page'] = $this->scraping->shDom($data['url']); // to scrape complex webpages [require cookie]
             }else{
                 $data['notice'] = 'URL is empty!!!';
             }
