@@ -6,4 +6,5 @@ This tutorial is for showing how to use SimpleHtmlDom and cURL as library for a 
 This tutorial is for those, who have adequate knowledge on SimpleHTMLDom, cURL and CodeIgniter MVC Framework.
 
 Read the blog post for detail:
-http://blog.makewebsmart.com/scraping-library-for-codeigniter-framework/136
+Currently unavailable
+(http://blog.makewebsmart.com/scraping-library-for-codeigniter-framework/136)
