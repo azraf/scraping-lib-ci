@@ -7,4 +7,4 @@ This tutorial is for those, who have adequate knowledge on SimpleHTMLDom, cURL a
 
 Read the blog post for detail:
 Currently unavailable
-(http://blog.makewebsmart.com/scraping-library-for-codeigniter-framework/136)
+(http://makewebsmart.com/blog/scraping-library-for-codeigniter-framework/136)
